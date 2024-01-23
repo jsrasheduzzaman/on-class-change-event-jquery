@@ -12,10 +12,3 @@
         return result;
     }
 })();
-
-
-
-// Example
-jQuery('SELECTOR').bind('classChange', function(){
-    console.log('Class Changed');
-});
