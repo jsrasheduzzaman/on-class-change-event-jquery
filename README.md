@@ -10,7 +10,7 @@ Put the code on your js file first from on-class-change-event-jquery.js
 
 Step 2
 
-Write a function for your requirenent. See the example below
+Write a function for your requirement. See the example below
 
 
 ## Example
